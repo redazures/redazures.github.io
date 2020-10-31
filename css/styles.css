@@ -1553,6 +1553,11 @@ pre code {
     flex-wrap: wrap;
     justify-content: space-around;
     background-color: black;
+    max-height: 60vh;
+  }
+
+  .col-xl-8 img{
+    height: 60vh;
   }
 
   .col-xl-9 {
