@@ -1327,6 +1327,12 @@ pre code {
   .col-lg-6 {
     flex: 0 0 50%;
     max-width: 50%;
+    display: flex;
+    /* background-color: black; */
+  }
+
+  .col-lg-6 img{
+    height: 100%;
   }
 
   .col-lg-7 {
