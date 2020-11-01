@@ -10327,6 +10327,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
+  color: white;
 }
 .blog-section .form-inline input {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
@@ -10337,6 +10338,7 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.15rem;
   border: 0;
+  color: white;
 }
 
 .resume-section {
@@ -10397,4 +10399,8 @@ body {
 
 .footer {
   padding: 5rem 0;
+}
+
+#retainable-rss-embed{
+  color:white;
 }
