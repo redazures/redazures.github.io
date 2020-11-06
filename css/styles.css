@@ -10235,6 +10235,9 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.15rem;
   border: 0;
+  display: inline-block;
+  /* width: 100%; */
+  margin:20px 0px;
 }
 
 .masthead {
